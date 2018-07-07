@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module Remote
   # This class defines resources exposed via the REST API and actions
   # associated with those resources.
